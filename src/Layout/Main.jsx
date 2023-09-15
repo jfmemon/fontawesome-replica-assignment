@@ -8,12 +8,12 @@ const Main = () => {
         <div>
             <Header></Header>
             <SubHeader></SubHeader>
-            <div className="bg-base-200 h-screen">
-                <div className="flex gap-2 container mx-auto px-20">
-                    <div className="md:w-1/5">
+            <div className="bg-base-200 md:h-screen">
+                <div className="md:flex md:gap-2 md:container mx-auto md:px-20 px-6">
+                    <div className="md:w-1/5 invisible md:visible">
                         <SidebarMenu></SidebarMenu>
                     </div>
-                    <div className="md:w-4/5">
+                    <div className="md:w-4/5 w-full">
                         <Outlet></Outlet>
                     </div>
                 </div>

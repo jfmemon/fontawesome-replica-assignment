@@ -1,9 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { useLocation } from 'react-router-dom';
+import Icons from './Icons';
 
 const Items = () => {
+    const location = useLocation();
+    const items = location.state.item;
     return (
-        <div>
-            These all are items.
+        <div className='pb-10'>
+            <p className='mt-5 text-xl font-bold pl-1'>{items.length} Icons</p>
+            <div className='md:flex gap-3 md:flex-wrap grid grid-cols-2 mt-5'>
+                {
+                    items.map(item => <Icons
+                        key={item.id}
+                        item={item}
+                    ></Icons>)
+                }
+            </div>
+
         </div>
     );
 };

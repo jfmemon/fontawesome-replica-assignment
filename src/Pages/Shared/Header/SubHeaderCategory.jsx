@@ -1,9 +1,16 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBolt, faCoffee, faFontAwesome, faI, faIcons } from '@fortawesome/free-solid-svg-icons'
+import { useNavigate } from 'react-router-dom';
 
 const SubHeaderCategory = ({ items }) => {
-    const { id, name, img, urlPath } = items;
+    const { id, name, img, urlPath, upCategory} = items;
+    const navigate = useNavigate();
+
+    const handleLoadIcons = (e) => {
+        e.preventDefault();
+        navigate(`/category/${urlPath}`, { state: { item: upCategory } })
+    }
 
     return (
         <div className='cursor-pointer flex flex-col justify-center items-center text-slate-700' onClick={handleLoadIcons}>

@@ -1,7 +1,6 @@
 [
     {
         "id": "6504261c68c3904a3fc511a8",
-        "img": "https://i.ibb.co/m9Z9szr/icons-solid.png",
         "name": "Classic",
         "urlPath": "classic",
         "upCategory": [
@@ -32,7 +31,7 @@
             {
                 "id": "6504261c8ed4410cd6f915f3",
                 "img": "https://i.ibb.co/5WDD9wp/angrycreative.png",
-                "name": "angry-creative",
+                "name": "angry",
                 "sideCategory": "solid"
             },
             {
@@ -92,7 +91,7 @@
             {
                 "id": "6504261ce379b9fec147c7d2",
                 "img": "https://i.ibb.co/JkpsBFC/magnifying-glass-solid.png",
-                "name": "magnifying-glass-solid",
+                "name": "magnifying-glass",
                 "sideCategory": "solid"
             },
             {
@@ -122,14 +121,13 @@
             {
                 "id": "6504261cfc4a03d2a48b8f87",
                 "img": "https://i.ibb.co/tMkm5YK/acquisitions-incorporated.png",
-                "name": "accuisitions-incorporated",
+                "name": "accuisitions",
                 "sideCategory": "regular"
             }
         ]
     },
     {
         "id": "6504261cbc4d6b5b6631ca15",
-        "img": "https://i.ibb.co/m9Z9szr/icons-solid.png",
         "name": "Sharp",
         "urlPath": "sharp",
         "upCategory": [
@@ -184,7 +182,7 @@
             {
                 "id": "6504261c3bc97440fd9f7b23",
                 "img": "https://i.ibb.co/G7S8kRq/book-journal-whills.png",
-                "name": "book-journal-wheels",
+                "name": "book-journal",
                 "sideCategory": "solid"
             },
             {
@@ -257,7 +255,6 @@
     },
     {
         "id": "6504261c00718e077079fba6",
-        "img": "https://i.ibb.co/XjMr0FN/font-awesome.png",
         "name": "Brands",
         "urlPath": "brands",
         "upCategory": [
@@ -276,13 +273,13 @@
             {
                 "id": "6504261c96a8cc825d69b114",
                 "img": "https://i.ibb.co/ChqdG3Z/facebook-messenger.png",
-                "name": "facebook-messenger",
+                "name": "messenger",
                 "sideCategory": "solid"
             },
             {
                 "id": "6504261c7f4a7bd207c8f163",
                 "img": "https://i.ibb.co/b3YjjcS/fantasy-flight-games.png",
-                "name": "fantasy-flight-games",
+                "name": "fantasy-flight",
                 "sideCategory": "solid"
             },
             {
@@ -385,7 +382,6 @@
     },
     {
         "id": "6504261c89ed0daa720f852b",
-        "img": "https://i.ibb.co/V2N2pfV/bolt.png",
         "name": "Free",
         "urlPath": "free",
         "upCategory": [
