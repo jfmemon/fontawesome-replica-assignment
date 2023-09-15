@@ -258,8 +258,8 @@
     {
         "id": "6504261c00718e077079fba6",
         "img": "https://i.ibb.co/XjMr0FN/font-awesome.png",
-        "name": "Brand",
-        "urlPath": "brand",
+        "name": "Brands",
+        "urlPath": "brands",
         "upCategory": [
             {
                 "id": "6504261c2ec6722edda37a50",
