@@ -1,0 +1,514 @@
+[
+    {
+        "id": "6504261c68c3904a3fc511a8",
+        "img": "https://i.ibb.co/m9Z9szr/icons-solid.png",
+        "name": "Classic",
+        "urlPath": "classic",
+        "upCategory": [
+            {
+                "id": "6504261c7d671f7bf0b35c6c",
+                "img": "https://i.ibb.co/QMg0WK8/apple-pay.png",
+                "name": "pay",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c0c2e5c350249d6cf",
+                "img": "https://i.ibb.co/DLjtgSh/apple.png",
+                "name": "apple",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c4a15b8a382ece87d",
+                "img": "https://i.ibb.co/jGjW8Rw/apper.png",
+                "name": "appear",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cadce0aea2bbcc9a3",
+                "img": "https://i.ibb.co/WzQSnJ8/angular.png",
+                "name": "angular",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c8ed4410cd6f915f3",
+                "img": "https://i.ibb.co/5WDD9wp/angrycreative.png",
+                "name": "angry-creative",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c3c13718e7daea83c",
+                "img": "https://i.ibb.co/5nxhD3K/angellist.png",
+                "name": "angel-list",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c1c030171f95af267",
+                "img": "https://i.ibb.co/x6BwRWs/android.png",
+                "name": "android",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c0bba94dcd61f9cc5",
+                "img": "https://i.ibb.co/xzxyQvV/amilia.png",
+                "name": "amilia",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261c18b28ffc7ebe03ae",
+                "img": "https://i.ibb.co/BzhXS4D/amazon-pay.png",
+                "name": "amazon-pay",
+                "sideCategory": "thin"
+            },
+            {
+                "id": "6504261c50ceed4de88a0317",
+                "img": "https://i.ibb.co/tYzqw4q/amazon.png",
+                "name": "amazon",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261c007e8d0814fc4fa3",
+                "img": "https://i.ibb.co/D7msRXS/alipay.png",
+                "name": "ali-pay",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c8b503be425ff7f20",
+                "img": "https://i.ibb.co/7bmqLB6/algolia.png",
+                "name": "algolia",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c8f2b391397b9996b",
+                "img": "https://i.ibb.co/v3B2fvL/house-solid.png",
+                "name": "house-solid",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c2ede5a44907d4e7e",
+                "img": "https://i.ibb.co/H2VWwnC/heart-regular.png",
+                "name": "heart-regular",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261ce379b9fec147c7d2",
+                "img": "https://i.ibb.co/JkpsBFC/magnifying-glass-solid.png",
+                "name": "magnifying-glass-solid",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c535762942cfc07f8",
+                "img": "https://i.ibb.co/3RhXSdK/user-solid.png",
+                "name": "user-solid",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c94fe3406f997fc6c",
+                "img": "https://i.ibb.co/PDnrS0L/accessible-icon.png",
+                "name": "accessible-icon",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cb7030bf0578b0461",
+                "img": "https://i.ibb.co/26XKtQm/500px.png",
+                "name": "500px-thin",
+                "sideCategory": "thin"
+            },
+            {
+                "id": "6504261c22f33c77b0252bc5",
+                "img": "https://i.ibb.co/gydmtjJ/accusoft.png",
+                "name": "accusoft-solid",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cfc4a03d2a48b8f87",
+                "img": "https://i.ibb.co/tMkm5YK/acquisitions-incorporated.png",
+                "name": "accuisitions-incorporated",
+                "sideCategory": "regular"
+            }
+        ]
+    },
+    {
+        "id": "6504261cbc4d6b5b6631ca15",
+        "img": "https://i.ibb.co/m9Z9szr/icons-solid.png",
+        "name": "Sharp",
+        "urlPath": "sharp",
+        "upCategory": [
+            {
+                "id": "6504261c6e39e1e35a119c26",
+                "img": "https://i.ibb.co/61NCrVy/border-all.png",
+                "name": "border-all",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261ca8940a033124b9ac",
+                "img": "https://i.ibb.co/9Z6nyqF/book-tanakh.png",
+                "name": "book-tanakh",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c010d1372ecf24c87",
+                "img": "https://i.ibb.co/Ky10xJ0/book-skull.png",
+                "name": "book-skull",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c4e11fe6450ae6c16",
+                "img": "https://i.ibb.co/f1QzbkX/book-quran.png",
+                "name": "book-quran",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261ce7cd522cc1b23730",
+                "img": "https://i.ibb.co/gDzj1Zx/book-open-reader.png",
+                "name": "book-open-reader",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cc7fbfbac6f41acb3",
+                "img": "https://i.ibb.co/BPP20Cb/book-open.png",
+                "name": "book-open",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c81cf0bbdd92914e7",
+                "img": "https://i.ibb.co/KVf37WM/book-medical.png",
+                "name": "book-medical",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c32541fa7504722b2",
+                "img": "https://i.ibb.co/JmysX4Y/bookmark.png",
+                "name": "bookmark",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c3bc97440fd9f7b23",
+                "img": "https://i.ibb.co/G7S8kRq/book-journal-whills.png",
+                "name": "book-journal-wheels",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c5ac8eec7a5a62a7b",
+                "img": "https://i.ibb.co/51GCFTH/book-bookmark.png",
+                "name": "book-bookmark",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c287bbcc0c3d35e65",
+                "img": "https://i.ibb.co/kMW4S3H/book-bible.png",
+                "name": "book-bible",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261ced564b72670f3f8a",
+                "img": "https://i.ibb.co/hYN2XXv/book-atlas.png",
+                "name": "book-atlas",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c6107f4e927ca06c2",
+                "img": "https://i.ibb.co/1zzvHdk/check-solid.png",
+                "name": "check",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c61410477742a67db",
+                "img": "https://i.ibb.co/5sDxfNP/calendar-days-regular.png",
+                "name": "calender-days",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c95e263edfe98e158",
+                "img": "https://i.ibb.co/K2sGbwc/circle-xmark-regular.png",
+                "name": "circle-xmark",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261cd34b7108728a6bb1",
+                "img": "https://i.ibb.co/PzHPWqj/comment-regular.png",
+                "name": "comment",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c84e64e400de763ce",
+                "img": "https://i.ibb.co/2tzpJ4G/envelope-regular.png",
+                "name": "envelop",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c2591cf48d9c0f8f5",
+                "img": "https://i.ibb.co/K6HWtx9/download-solid.png",
+                "name": "download",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c9b7194f53832d498",
+                "img": "https://i.ibb.co/H2VWwnC/heart-regular.png",
+                "name": "heart",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261cdde0aaa6682fe853",
+                "img": "https://i.ibb.co/YhX97xX/airbnb.png",
+                "name": "airbnb",
+                "sideCategory": "thin"
+            }
+        ]
+    },
+    {
+        "id": "6504261c00718e077079fba6",
+        "img": "https://i.ibb.co/XjMr0FN/font-awesome.png",
+        "name": "Brand",
+        "urlPath": "brand",
+        "upCategory": [
+            {
+                "id": "6504261c2ec6722edda37a50",
+                "img": "https://i.ibb.co/vJp5xd1/facebook.png",
+                "name": "facebook",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cf20cb14cb280a390",
+                "img": "https://i.ibb.co/f1n2KVw/facebook-f.png",
+                "name": "facebook-f",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c96a8cc825d69b114",
+                "img": "https://i.ibb.co/ChqdG3Z/facebook-messenger.png",
+                "name": "facebook-messenger",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c7f4a7bd207c8f163",
+                "img": "https://i.ibb.co/b3YjjcS/fantasy-flight-games.png",
+                "name": "fantasy-flight-games",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cbecca067bcb34940",
+                "img": "https://i.ibb.co/1f9xq6w/fedex.png",
+                "name": "fedex",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c5ac773ea9b2e6ea5",
+                "img": "https://i.ibb.co/4tbwrFX/fedora.png",
+                "name": "fedora",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261ce10eb6b70e3b451b",
+                "img": "https://i.ibb.co/Qk3mLPW/figma.png",
+                "name": "figma",
+                "sideCategory": "thin"
+            },
+            {
+                "id": "6504261c2d93a832e0cb4119",
+                "img": "https://i.ibb.co/wsdCY7H/firefox.png",
+                "name": "firefox",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cab42fd4b0890812f",
+                "img": "https://i.ibb.co/SBnCPZj/firefox-browser.png",
+                "name": "firefox-browser",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c287a680a30544496",
+                "img": "https://i.ibb.co/74xWn83/first-order.png",
+                "name": "first-order",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261cd769bab6ccab3716",
+                "img": "https://i.ibb.co/6YYCB7Y/flickr.png",
+                "name": "flickr",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c252a36c786ef1c86",
+                "img": "https://i.ibb.co/RQtKc4j/flipboard.png",
+                "name": "flip-board",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c9df7e6fb42559851",
+                "img": "https://i.ibb.co/S703byP/fly.png",
+                "name": "fly",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261ce8e67fb7628a12db",
+                "img": "https://i.ibb.co/XjMr0FN/font-awesome.png",
+                "name": "font-awesome",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c4a5b7154c74d1fbc",
+                "img": "https://i.ibb.co/CM1YMFZ/fonticons.png",
+                "name": "font-icon",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c79a40fb4087151bc",
+                "img": "https://i.ibb.co/d4BYhgp/fonticons-fi.png",
+                "name": "fonticons-fi",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261c12462efd418cd37d",
+                "img": "https://i.ibb.co/HtwwV9c/fort-awesome.png",
+                "name": "fort-awesome",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c3bdacd05d305e597",
+                "img": "https://i.ibb.co/qjzpFKC/forumbee.png",
+                "name": "forumbee",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cd7f93fbb473ce90d",
+                "img": "https://i.ibb.co/yWy9g7h/ethereum.png",
+                "name": "ethereum",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c01b5230f1e04baf1",
+                "img": "https://i.ibb.co/6nS226g/erlang.png",
+                "name": "erlang",
+                "sideCategory": "solid"
+            }
+        ]
+    },
+    {
+        "id": "6504261c89ed0daa720f852b",
+        "img": "https://i.ibb.co/V2N2pfV/bolt.png",
+        "name": "Free",
+        "urlPath": "free",
+        "upCategory": [
+            {
+                "id": "6504261c53fc774ae3acf22b",
+                "img": "https://i.ibb.co/SVDVy1G/wifi-solid.png",
+                "name": "wifi",
+                "sideCategory": "thin"
+            },
+            {
+                "id": "6504261c85e6d50041d9f376",
+                "img": "https://i.ibb.co/xLPLCsj/truck-fast-solid.png",
+                "name": "truck-fast",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cbbdc5dfb59c75026",
+                "img": "https://i.ibb.co/34wSyQh/thumbs-up-solid.png",
+                "name": "thumbs-up",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cb47c0a816eb69206",
+                "img": "https://i.ibb.co/Fzbx71f/thumbs-down-solid.png",
+                "name": "thumbs-down",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cf335fb011bd4e0e7",
+                "img": "https://i.ibb.co/6tkM91m/sliders-solid.png",
+                "name": "slider",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c2bba5e5dab2cf362",
+                "img": "https://i.ibb.co/N145nxX/shield-halved-solid-1.png",
+                "name": "sheild-halvet",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cd961f770a8c89c42",
+                "img": "https://i.ibb.co/NCGdwDR/pen-nib-solid.png",
+                "name": "pen-nib",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cbdedf57dd3ef00e8",
+                "img": "https://i.ibb.co/42BJzk6/paperclip-solid.png",
+                "name": "paper-clip",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261ca3298febae27742e",
+                "img": "https://i.ibb.co/WtxmY1m/mug-hot-solid.png",
+                "name": "mug-hot",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c3081329c985500a3",
+                "img": "https://i.ibb.co/KWgzMX6/lock-solid.png",
+                "name": "lock",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c55621ccdf7fa8987",
+                "img": "https://i.ibb.co/1qQ89vC/heart-solid.png",
+                "name": "heart",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c5a49ab3af79a4389",
+                "img": "https://i.ibb.co/rMzPtfq/headphones-solid.png",
+                "name": "headphones",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c38fa7ab32aac427b",
+                "img": "https://i.ibb.co/yFfCcXz/filter-solid.png",
+                "name": "filter",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c672ca7f47c0f3c88",
+                "img": "https://i.ibb.co/GCxzWRb/face-smile-solid.png",
+                "name": "face-smile",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cffaac00fc823a650",
+                "img": "https://i.ibb.co/zxKK3H7/cloud-solid.png",
+                "name": "cloud",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cb1f7b83f02086a6d",
+                "img": "https://i.ibb.co/gT6TkzG/circle-xmark-solid.png",
+                "name": "circle-xmark",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261cccb917807eaf4896",
+                "img": "https://i.ibb.co/ySgGvVd/cart-shopping-solid.png",
+                "name": "cart-shopping",
+                "sideCategory": "solid"
+            },
+            {
+                "id": "6504261c154d7546d6e22a73",
+                "img": "https://i.ibb.co/z8yF3HP/camera-retro-solid.png",
+                "name": "camera-retro",
+                "sideCategory": "regular"
+            },
+            {
+                "id": "6504261c6daa837a89b2d77c",
+                "img": "https://i.ibb.co/52q0jqc/bicycle-solid.png",
+                "name": "bicycle",
+                "sideCategory": "light"
+            },
+            {
+                "id": "6504261c99a5e1ef9aa71f46",
+                "img": "https://i.ibb.co/v3YLyFF/arrow-up-solid.png",
+                "name": "arrow-up",
+                "sideCategory": "thin"
+            }
+        ]
+    }
+]

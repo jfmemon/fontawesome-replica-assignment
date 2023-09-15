@@ -1,9 +1,9 @@
-
+import Items from './../Items/Items';
 
 const Home = () => {
     return (
         <div>
-            <h3>This is Home.</h3>
+            <Items></Items>
         </div>
     );
 };
