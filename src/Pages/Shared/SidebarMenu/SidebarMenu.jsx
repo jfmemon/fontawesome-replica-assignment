@@ -18,7 +18,7 @@ const SidebarMenu = () => {
                         <span>Solid</span>
                     </div>
                     <div>
-                        gello
+                        05
                     </div>
                 </div>
                 <div className="my-4 text-[13px] flex justify-between cursor-pointer py-2 px-3 hover:border hover:rounded-xl hover:border-slate-300">
@@ -27,7 +27,7 @@ const SidebarMenu = () => {
                         <span>Regular</span>
                     </div>
                     <div>
-                        gello
+                        05
                     </div>
                 </div>
                 <div className="my-4 text-[13px] flex justify-between cursor-pointer py-2 px-3 hover:border hover:rounded-xl hover:border-slate-300">
@@ -36,7 +36,7 @@ const SidebarMenu = () => {
                         <span>Light</span>
                     </div>
                     <div>
-                        gello
+                        05
                     </div>
                 </div>
                 <div className="my-4 text-[13px] flex justify-between cursor-pointer py-2 px-3 hover:border hover:rounded-xl hover:border-slate-300">
@@ -45,7 +45,7 @@ const SidebarMenu = () => {
                         <span>Thin</span>
                     </div>
                     <div>
-                        gello
+                        05
                     </div>
                 </div>
             </div>
