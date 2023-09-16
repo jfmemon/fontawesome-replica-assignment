@@ -9,7 +9,9 @@ const SubHeader = () => {
     useEffect(() => {
         fetch("../../../../public/Category.json")
             .then(res => res.json())
-            .then(data => setCategory(data))
+            .then(data => {
+                setCategory(data);
+            })
     }, [])
 
     return (
